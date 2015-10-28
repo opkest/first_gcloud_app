@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="Google App Engine SDK" type="python">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/argcomplete" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/mimeparse" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/markupsafe" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/jinja2" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/pyasn1" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/googlecloudsdk" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/websocket" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/dns" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/uritemplate" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/six" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/oauth2" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/httplib2" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/pyasn1_modules" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/rsa" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/docker" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/socks" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/enum" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/oauth2client" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/apiclient" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/protorpc" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/argparse" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/google" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/__init__.py" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/requests" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/gflags" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/antlr3" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/ipaddr" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/fancy_urllib" />
+      <root url="file://$PROJECT_DIR$/../google-cloud-sdk/lib/yaml" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
